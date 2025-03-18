@@ -1,4 +1,4 @@
-DEX Studios Launcher
+# DEX Studios Launcher
 
 Versão Atualizada: https://github.com/VickHub123/dex_launcher/releases/latest
   
